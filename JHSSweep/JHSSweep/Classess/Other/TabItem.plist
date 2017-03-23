@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>首页</string>
+		<key>image</key>
+		<string>tab_normal_1</string>
+		<key>selectedImage</key>
+		<string>tab_normal_1_selected</string>
+		<key>navController</key>
+		<string>JHSHomeNavController</string>
+		<key>rootController</key>
+		<string>JHSHomeViewController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>发现</string>
+		<key>image</key>
+		<string>tab_normal_2</string>
+		<key>selectedImage</key>
+		<string>tab_normal_2_selected</string>
+		<key>navController</key>
+		<string>JHSDiscoverNavController</string>
+		<key>rootController</key>
+		<string>JHSDiscoverViewController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>健康</string>
+		<key>image</key>
+		<string>tab_normal_3</string>
+		<key>selectedImage</key>
+		<string>tab_normal_3_selected</string>
+		<key>navController</key>
+		<string>JHSHealthNavController</string>
+		<key>rootController</key>
+		<string>JHSHealthViewController</string>
+	</dict>
+</array>
+</plist>
